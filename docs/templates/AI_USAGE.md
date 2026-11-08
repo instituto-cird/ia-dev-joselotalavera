@@ -58,3 +58,17 @@ Al cerrar cada laboratorio se completa una fila. Al final del programa, cada par
 | Lab 2 | | | | |
 | Lab 3 | | | | |
 | Lab 4 | | | | |
+
+### Entrada 000 · Lab 0 · Onboarding
+
+| Campo | Detalle |
+|---|---|
+| Fecha | 2026-11-05 |
+| Herramienta | Claude |
+| Nivel de autonomía | ninuguno |
+| Para qué se usó | error al instalar dependencias usando uv |
+| Qué hizo la IA | Sugirion correr uv sync --all-groups --extra ui |
+| Qué hubo que corregir o rehacer | correr el comando para instalar dependencias opcionales |
+| Cómo se verificó | pude levantar el fron |
+| Qué decisión fue propia | no hubieron mayores decisiones |
+| Commit o pull request | (se completa después de abrir el pull request) |
